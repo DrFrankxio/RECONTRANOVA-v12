@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "express": "^4.21.2",
+    "perlin": "^1.0.0",
+    "perlin-simplex": "^0.0.3",
+    "socket.io": "^4.8.1"
+  }
+}
